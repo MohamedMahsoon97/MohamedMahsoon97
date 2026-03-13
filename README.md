@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Mahsoon 👋 
 ### Senior Frontend Developer | React & Next.js Specialist
 
-I am a passionate Frontend Engineer focused on building scalable, high-performance web applications. Currently, I specialize in developing complex **Real Estate Dashboards** and **Live Streaming Platforms**, with a deep focus on **Data Integrity** and **Payment Gateway Integration**.
+I am a passionate Frontend Engineer focused on building scalable, high-performance web applications. Currently, I specialize in developing complex **ERP and eCommerce and Bookings systems** and **Live Streaming Platforms**, with a deep focus on **Data Integrity** and **Payment Gateway Integration**.
 
 ---
 
